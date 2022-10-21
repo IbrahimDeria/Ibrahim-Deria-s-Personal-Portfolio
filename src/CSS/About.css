@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.mainAbout {
+  margin: 0;
+  background-color: grey;
+  height: 80vh;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.mainAbout h1 {
+  margin: 0;
+  padding-top: 55px;
+  font-size: 60px;
+  text-align: center;
+}
+.myPic {
+  height: 250px;
+  position: relative;
+  top: 50px;
+  border-radius: 50%;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  float: left;
+  left: 800px;
+}
+.borders {
+  font-size: 20px;
+  height: 300px;
+  top: 300px;
+  position: relative;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+  border-right-color: black;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-left-color: black;
+  border-left-width: 1px;
+  border-left-style: solid;
+}

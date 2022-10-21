@@ -1,0 +1,16 @@
+body {
+  color: #d6d5cb;
+  font-family: Robot;
+}
+@font-face {
+  font-family: Robot;
+  src: url(../../roboto/Roboto-Thin.ttf);
+}
+@font-face {
+  font-family: Robot Thick;
+  src: url(../../roboto/Roboto-Bold.ttf);
+}
+@font-face {
+  font-family: Robot Normal;
+  src: url(../../roboto/Roboto-Regular.ttf);
+}
