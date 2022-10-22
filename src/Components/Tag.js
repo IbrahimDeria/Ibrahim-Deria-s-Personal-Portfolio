@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Tag.css";
 function Tag(props) {
   return (

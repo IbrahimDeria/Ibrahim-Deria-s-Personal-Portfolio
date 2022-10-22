@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Skills.css";
 import Tag from "./Tag";
 function Skills() {

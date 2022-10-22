@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Projects.css";
 import ProjectCard from "./ProjectCard";
 function Projects() {

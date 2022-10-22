@@ -1,3 +1,4 @@
+import React from "react";
 import git from "../Media/git.png";
 import "../CSS/ProjectCard.css";
 function ProjectCard(props) {

@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/App.css";
 import Home from "./Home";
 import About from "./About";

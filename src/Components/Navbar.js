@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Navbar.css";
 import menu from "../Media/bars.png";
 function Navbar() {
@@ -19,7 +20,7 @@ function Navbar() {
           onClick={openNav}
           alt="menuBar"
         ></img>
-        <div id="mySidenav" class="sidenav">
+        <div id="mySidenav" className="sidenav">
           <p onClick={closeNav} className="closebtn">
             &times;
           </p>

@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Footer.css";
 import linkedin from "../Media/linkedin.png";
 import git from "../Media/git.png";
@@ -9,10 +10,10 @@ function Footer() {
         <p>Made with React</p>
         <p> &copy; 2022. All rights reserved</p>
         <a href="https://www.linkedin.com/in/ibrahim-deria-a4865a140/">
-          <img src={linkedin}></img>
+          <img src={linkedin} alt="linkedin"></img>
         </a>
         <a href="https://github.com/IbrahimDeria">
-          <img src={git}></img>
+          <img src={git} alt="github"></img>
         </a>
       </div>
     </div>

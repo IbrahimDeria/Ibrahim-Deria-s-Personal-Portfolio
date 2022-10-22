@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/About.css";
 import picMe from "../Media/picMe.jpg";
 function About() {

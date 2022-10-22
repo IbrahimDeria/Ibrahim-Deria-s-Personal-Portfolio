@@ -1,3 +1,4 @@
+import React from "react";
 import "../CSS/Home.css";
 import Navbar from "./Navbar";
 
@@ -6,7 +7,6 @@ function Home() {
     <div>
       <div className="mainHome">
         <Navbar></Navbar>
-
         <div className="select">
           <br></br>
           <br></br>
