@@ -1,5 +1,6 @@
 .projectCard {
-  background-color: black;
+  background-color: #e4d4c8;
+  color: #201a1e;
   height: 250px;
   width: 500px;
   border-radius: 25px;
@@ -18,7 +19,8 @@
   text-align: left;
   padding-left: 30px;
   padding-right: 30px;
-  font-family: Robot Normal;
+  font-family: Robot Thick;
+  line-height: 3vh;
 }
 .projectCard:hover {
   transform: translateY(-10px);

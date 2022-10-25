@@ -1,7 +1,7 @@
 import React from "react";
 import "../CSS/Footer.css";
 import linkedin from "../Media/linkedin.png";
-import git from "../Media/git.png";
+import git from "../Media/git2.png";
 function Footer() {
   return (
     <div>

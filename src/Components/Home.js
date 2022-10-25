@@ -1,13 +1,21 @@
 import React from "react";
 import "../CSS/Home.css";
 import Navbar from "./Navbar";
-
+import down from "../Media/down.png";
 function Home() {
   return (
     <div>
       <div className="mainHome">
         <Navbar></Navbar>
         <div className="select">
+          <div className="resume">
+            <a href="#">
+              <p>CV</p>
+            </a>
+            <a href="#" className="resume2">
+              <p>Resume</p>
+            </a>
+          </div>
           <br></br>
           <br></br>
           <br></br>
@@ -33,14 +41,7 @@ function Home() {
           <p className="thick">Hello, I'm Ibrahim Deria</p>
           <p style={{ fontSize: 40 }}>Software Engineer</p>
         </div>
-        <div className="resume">
-          <a href="#">
-            <p>CV</p>
-          </a>
-          <a href="#">
-            <p>Resume</p>
-          </a>
-        </div>
+        <img src={down} alt="down" className="down"></img>
       </div>
     </div>
   );

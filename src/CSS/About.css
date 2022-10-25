@@ -5,16 +5,21 @@ body {
 
 .mainAbout {
   margin: 0;
-  background-color: grey;
+  background-color: #edc7b7;
   height: 80vh;
+  color: #003b4a;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
     rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  font-family: Robot Thick;
 }
 .mainAbout h1 {
   margin: 0;
   padding-top: 55px;
   font-size: 60px;
   text-align: center;
+}
+.mainAbout p {
+  line-height: 3.5vh;
 }
 .myPic {
   height: 250px;

@@ -9,7 +9,8 @@ function Projects() {
         <div className="seperate">
           <ProjectCard
             link="https://github.com/IbrahimDeria/Atm-Machine"
-            desc="Virtual Atm Machine that lets users deposit, withdraw, and send money. All transactions, accounts, and balances are stored in a database."
+            title="Atm Machine"
+            desc="Virtual Atm Machine that lets users deposit and withdraw money. Users can also send money to other accounts as well. All transactions, accounts, and balances are stored in a database."
           ></ProjectCard>
         </div>
         <div className="seperate">

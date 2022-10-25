@@ -1,6 +1,7 @@
 body {
   color: #d6d5cb;
-  font-family: Robot;
+  font-family: Robot Normal;
+  color: #ac3b61;
 }
 @font-face {
   font-family: Robot;

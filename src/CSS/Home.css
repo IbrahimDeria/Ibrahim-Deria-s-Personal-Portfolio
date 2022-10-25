@@ -4,9 +4,10 @@ body {
 }
 
 .mainHome {
-  background-image: url(../Media/coding\ 2\ bright.gif);
-  backdrop-filter: brightness(150%);
+  background-color: #eee2dc;
+  background-size: cover;
   height: 100vh;
+  color: #ac3b61;
 }
 .mainHome p {
   margin: 0;
@@ -20,8 +21,11 @@ body {
   font-family: Robot Thick;
 }
 .resume {
-  margin-left: 17vw;
-  margin-top: 50px;
+  margin-left: 15vw;
+  padding-top: 5vh;
+}
+.resume2 {
+  margin-left: 60vw;
 }
 .resume p {
   font-family: Robot Normal;
@@ -29,13 +33,18 @@ body {
 }
 .resume a {
   float: left;
-  padding-left: 20vw;
   text-decoration: none;
-  color: #d6d5cb;
+  color: #123c69;
 }
 .menuImg {
   height: 50px;
   float: left;
   margin-top: 100px;
   margin-left: 75px;
+}
+.down {
+  height: 5vh;
+  position: absolute;
+  height: 50 vh;
+  left: 47vw;
 }
