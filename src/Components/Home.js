@@ -41,7 +41,9 @@ function Home() {
           <p className="thick">Hello, I'm Ibrahim Deria</p>
           <p style={{ fontSize: 40 }}>Software Engineer</p>
         </div>
-        <img src={down} alt="down" className="down"></img>
+        <a href="#target1">
+          <img src={down} alt="down" className="down"></img>
+        </a>
       </div>
     </div>
   );
