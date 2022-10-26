@@ -14,10 +14,18 @@ function Projects() {
           ></ProjectCard>
         </div>
         <div className="seperate">
-          <ProjectCard></ProjectCard>
+          <ProjectCard
+            link="https://github.com/IbrahimDeria/Data-Structures-Algorithms"
+            title="DSA's"
+            desc="A folder containing data structures and algorithm programs built from the ground up by me! Run the Java files without any extra hassle and see how I implemented certain Data Structures and Algorithms."
+          ></ProjectCard>
         </div>
         <div className="seperate">
-          <ProjectCard></ProjectCard>
+          <ProjectCard
+            link="https://github.com/IbrahimDeria/Ibrahim-s-Games"
+            title="Website Games"
+            desc="4 website games including a Hangman, and State/City Guesser, Washington City Guesser, and a Calculator. Go through the read me file in order to run the files. "
+          ></ProjectCard>
         </div>
         <div className="seperate">
           <ProjectCard></ProjectCard>
