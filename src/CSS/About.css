@@ -33,7 +33,6 @@ body {
   left: 800px;
 }
 .borders {
-  font-size: 20px;
   height: 300px;
   top: 300px;
   position: relative;
@@ -48,4 +47,8 @@ body {
   border-left-color: black;
   border-left-width: 1px;
   border-left-style: solid;
+}
+.borders p {
+  font-size: 3vh;
+  line-height: 4vh;
 }

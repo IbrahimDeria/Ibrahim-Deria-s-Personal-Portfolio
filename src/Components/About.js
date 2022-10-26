@@ -8,18 +8,13 @@ function About() {
         <img alt="ibrahimderia" src={picMe} className="myPic"></img>
         <div className="borders">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu.
-            Feugiat scelerisque varius morbi enim nunc faucibus. Viverra mauris
-            in aliquam sem fringilla. Semper risus in hendrerit gravida rutrum.
-            Massa vitae tortor condimentum lacinia quis. Natoque penatibus et
-            magnis dis parturient montes nascetur ridiculus. Posuere morbi leo
-            urna molestie at elementum eu facilisis. Velit dignissim sodales ut
-            eu sem. Augue ut lectus arcu bibendum at. Ullamcorper dignissim cras
-            tincidunt lobortis feugiat vivamus at. Adipiscing diam donec
-            adipiscing tristique risus nec feugiat in fermentum. Purus semper
-            eget duis at tellus at.
+            Hello, I'm Ibrahim! I am a Somali-American currently living in
+            Seattle. I am currently a student at the University of Washington
+            studying Computer Science. A regular day for me includes building
+            websites, games (Playing them too), and useful applications.
+            Currently interested in Machine learning and hoping to become an
+            AI/Machine Learning Engineer. If you have any questions, send them
+            my way!
           </p>
         </div>
       </div>
